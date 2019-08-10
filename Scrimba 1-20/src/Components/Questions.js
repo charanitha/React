@@ -5,6 +5,9 @@ function Questions(){
     return (
         <div>
             <Questions01
+                answer = "jbvjk"
+            />
+            <Questions01
                 question = "djkchds"
                 answer = "jbvjk"
             />
